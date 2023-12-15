@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FNaYLRaoGAxMO9YQ.gif" alt="MasterHead">
+</p>
+
+<!-- <p align="center">
+  <img src="https://cdn.theatlantic.com/thumbor/UJe2fDOzEKVxesrQFvIX3FrV0hc=/0x0:2880x1620/976x549/media/img/mt/2023/02/AI_Questions/original.gif" alt="MasterHead">
+</p> -->
+
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate data scientist, ML engineer and researcher from Iowa city, Iowa</h3>
 
