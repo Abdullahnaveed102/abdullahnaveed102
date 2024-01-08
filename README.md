@@ -7,13 +7,13 @@
 </p> -->
 
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate data scientist, ML engineer and researcher from Iowa city, Iowa</h3>
+<h3 align="center">A passionate data scientist, ML engineer, and researcher from Iowa City, Iowa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahnaveed102&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahnaveed102" /> </p>
 
-- 🔭 I’m currently working on **Dependable System Design for HPC**
+- 🔭 I’m currently working on **Dependable System Design for HPC and Fault Tolerance**
 
-- 🌱 I’m currently learning **Large Language Models (LLMs)**
+- 🌱 I’m currently learning about **Large Language Models (LLMs)**
 
 - 📫 How to reach me **abdullahnaveed102@gmail.com**
 
