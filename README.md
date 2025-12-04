@@ -7,7 +7,7 @@
 </p> -->
 
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate data scientist, ML engineer, and researcher from Iowa City, Iowa</h3>
+<h3 align="center">A passionate data scientist, ML engineer, and researcher from Gainesville, Florida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahnaveed102&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahnaveed102" /> </p>
 
